@@ -1,0 +1,6 @@
+/.env
+/.vscode
+/firstproject/__pycache__
+/webapp/__pycache__
+/webapp/migrations/__pycache__
+
